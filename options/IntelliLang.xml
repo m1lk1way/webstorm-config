@@ -1,0 +1,15 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>ko template require</display-name>
+      <value-pattern>'\$\{(.+)\}'</value-pattern>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-bind"))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>ko-databind</display-name>
+      <prefix>window[&quot;dummy_var&quot;] = {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-bind"))]]></place>
+    </injection>
+  </component>
+</application>

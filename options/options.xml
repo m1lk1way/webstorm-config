@@ -1,0 +1,62 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="194-76-249-255,,,190-0-249-255,,,229-83-99-229" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.50941026" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.2478903" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="INSPECTION_FILTER_HISTORY" value="static&#10;xml emp" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="23" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="imports&#10;format&#10;refact&#10;multi" />
+    <property name="LAST_INJECTED_LANGUAGE" value="CSS" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="visual studio&#10;jest&#10;Node.js" />
+    <property name="SearchEveryWhereHistory" value="entitie&#10;s&#10;selectors/&#10;web.con&#10;webConf" />
+    <property name="SettingsSearchHistory" value="sort&#10;alphabet&#10;Rearrange Code&#10;Code Style&#10;auto" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.49572086" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.163" value="15b431c890b" />
+    <property name="evlsprt2.163" value="15b341aea79" />
+    <property name="evlsprt3.163" value="15" />
+    <property name="evlsprt3.171" value="10" />
+    <property name="evlsprt3.172" value="15" />
+    <property name="evlsprt3.173" value="13" />
+    <property name="evlsprt3.181" value="10" />
+    <property name="export.settings.path" value="C:\Users\AlexeyAndras\Desktop\settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;C:/Projects/ep/Database/LogicSoftware.EasyProjects.Database/Templates&#10;C:/q&#10;C:/&#10;C:/Users/AlexeyAndras/Downloads/redux-form-initialize-from-state&#10;C:/Projects/test&#10;C:/Program Files/Git/cmd/git.exe&#10;C:/Projects/ep/EP5Proto.Web.GUI/package.json&#10;C:/Users/AlexeyAndras/Downloads/ws-settings.jar&#10;C:/Documents and Settings&#10;C:/Projects/react-upload&#10;C:/Projects/reactTest/my-app&#10;C:/Projects/avatar-uploader&#10;C:/Projects/ep3/EP5Proto.Web.GUI&#10;C:/Projects/ep/EP5Proto.Web.GUI&#10;C:/Users/ep3&#10;C:/Projects/selectize&#10;C:/Projects/ep/EP5Proto.Web.GUI/node_modules/webpack/bin/webpack.js&#10;C:/Projects/ep&#10;C:/Projects/toiletGuard&#10;C:/Projects/ep2&#10;C:/Projects/bdaybot&#10;C:/Projects&#10;C:/Projects/frontone&#10;C:/Projects/ep/EP5Proto.Web.GUI/Scripts/EasyProjectsCommon/CustomKnockout&#10;C:/Projects/onBoarding&#10;C:/Program Files/ConEmu/ConEmu64.exe&#10;C:/Projects/ep2/EP5Proto.Web.GUI" />
+    <property name="file.gist.reindex.count" value="377390" />
+    <property name="fileTypeChangedCounter" value="22" />
+    <property name="find.popup.splitter" value="0.32723576" />
+    <property name="ignore.ide.set.hidpi.mode" value="true" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="selected.color.option.type" value="INFORMATION_HINT" />
+    <property name="settings.code.style.selected.tab.CSS" value="Other" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+  </component>
+</application>

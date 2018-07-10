@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="fieldsReducer(state,action,changes)" />
+      </blacklist>
+      <blacklist language="TypeScript JSX">
+        <added pattern="shallow(node,options)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

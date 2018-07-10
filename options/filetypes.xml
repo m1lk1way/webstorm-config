@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".babel-rc" type="JSON" />
+      <mapping pattern="filters-configuration" type="JavaScript" />
+      <mapping pattern="jCachedCss" type="JavaScript" />
+      <mapping pattern="RowTotal.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="redux-form" type="PLAIN_TEXT" />
+      <mapping pattern="schemas" type="PLAIN_TEXT" />
+      <mapping ext="tscx" type="PLAIN_TEXT" />
+      <mapping pattern="index.js" type="TSLint" />
+      <mapping pattern="weeklyTimelogs" type="TypeScript" />
+      <mapping pattern="CurrentWeekData" type="TypeScript" />
+      <mapping pattern="ActionTypes" type="TypeScript" />
+      <mapping pattern="index" type="TypeScript" />
+      <mapping pattern="dateUtilityMock" type="TypeScript" />
+      <mapping pattern="asd" type="TypeScript JSX" />
+      <mapping ext="conf" type="XML" />
+    </extensionMap>
+  </component>
+</application>

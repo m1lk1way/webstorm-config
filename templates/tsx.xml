@@ -1,0 +1,7 @@
+<templateSet group="tsx">
+  <template name="jsxbind" value="this.$SELECTION$ = this.$SELECTION$.bind(this);" shortcut="NONE" description="surround with bind to this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
